@@ -51,6 +51,7 @@ Data Geoscientist with 10+ years designing and leading environmental research pr
 
 - Founder & Principal Scientist — LA Research & Consulting (2011–present)
 - External Reader — Master's Thesis on AI Governance, Leiden University
+- Ph.D. Geoscience, The University of Arizona. Tucson, AZ. 
 
 
 ---
