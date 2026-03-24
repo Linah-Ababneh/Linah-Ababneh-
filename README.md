@@ -4,10 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linah--ababneh-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/linah-ababneh/)
 [![Email](https://img.shields.io/badge/Email-linahababneh%40gmail.com-D14836?style=flat&logo=gmail)](mailto:linahababneh@gmail.com)
 
-<div align="center">
-<img src="profile-photo3.jpg" width="150" alt="Linah N. Ababneh" style="border-radius: 50%"/>
-</div>
-
 ## About
 
 Data Geoscientist with 10+ years designing and leading environmental research programs across geochemistry, carbon removal, paleoclimate, and climate data science. Built ERW research capacity from the ground up — field trial design, MRV protocol development, and peer-reviewed publication in Nature-portfolio journals — while maintaining a parallel record in paleoclimatology spanning dendrochronology, alpine vegetation, wetland, and arid systems across the US, MENA, and Scandinavia. Field programs routinely generate 1M+ data points per project. Committed to translating complex environmental data into decisions that matter across science, policy, and field practice.
