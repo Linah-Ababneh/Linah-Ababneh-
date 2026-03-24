@@ -4,7 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linah--ababneh-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/linah-ababneh/)
 [![Email](https://img.shields.io/badge/Email-linahababneh%40gmail.com-D14836?style=flat&logo=gmail)](mailto:linahababneh@gmail.com)
 
----
+<div align="center">
+<img src="profile.jpg" width="150" alt="Linah N. Ababneh" style="border-radius: 50%"/>
+</div>
 
 ## About
 
